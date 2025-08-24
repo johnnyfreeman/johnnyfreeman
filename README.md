@@ -39,12 +39,6 @@ go > rust > php > typescript
 
 Why? Go for simplicity. Rust when I need to squeeze performance. PHP because it's underrated. TypeScript when the web calls.
 
-## What I'm Learning
-
-Currently deep diving into:
-- Distributed systems at scale (working on beacon)
-- Terminal UI design patterns (tint is teaching me a lot)
-- Rust's async runtime (still wrapping my head around it)
 
 ## Find Me
 

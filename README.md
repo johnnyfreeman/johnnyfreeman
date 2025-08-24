@@ -15,14 +15,14 @@ const profile = {
 
 ### 🔥 Active Projects
 
-**[beacon](https://github.com/johnnyfreeman/beacon)** - Distributed API monitoring built for infinite scale  
+**[beacon](https://github.com/johnnyfreeman/beacon)** - Distributed API monitoring that scales horizontally without limits. Built on Temporal workflows for bulletproof reliability and exactly-once execution guarantees  
 `go` `temporal` `distributed-systems`
 
-**[tint](https://github.com/johnnyfreeman/tint)** - Cell-based terminal UI component library  
-`go` `tui` `terminal`
+**pathfinder** - Enterprise data synchronization pipeline powering real-time AI inference workloads. Kafka streams meet Temporal's durable execution for rock-solid data flows at scale  
+`go` `kafka` `temporal` `ai-inference` `internal`
 
-**[bonsai](https://github.com/johnnyfreeman/bonsai)** - Terminal-based JSON viewer that doesn't suck  
-`go` `cli` `json`
+**[datatouille](https://github.com/johnnyfreeman/datatouille)** - Beautiful database TUI that makes exploring your data a joy. Built with Bubble Tea because terminals deserve nice things too  
+`go` `bubbletea` `tui` `database`
 
 ### 🛠 Tool Philosophy
 

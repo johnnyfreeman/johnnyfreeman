@@ -15,6 +15,12 @@ const profile = {
 
 ### 🔥 Active Projects
 
+**[hammerhand](https://github.com/johnnyfreeman/hammerhand)** - Cross platform native desktop application for managing processes. Processes can share ENV vars and config through Projects. Processes can be executed once manually, in a loop, or on a schedule.
+`rust` `process-manager`
+
+**[viewscreen](https://github.com/johnnyfreeman/viewsceen)** - Viewscreen allows you to easily read streamed JSON while running Claude Code in non-interactive mode
+`rust` `bubbletea` `tui` `database`
+
 **[beacon](https://github.com/johnnyfreeman/beacon)** - Distributed API monitoring that scales horizontally without limits. Built on Temporal workflows for bulletproof reliability and exactly-once execution guarantees  
 `go` `temporal` `distributed-systems`
 
@@ -34,17 +40,17 @@ I build CLI tools because GUIs are where good ideas go to get complicated. My to
 ## Tech I'm Into Right Now
 
 ```
-go > rust > php > typescript
+rust > go > typescript
 ```
 
-Why? Go for simplicity. Rust when I need to squeeze performance. PHP because it's underrated. TypeScript when the web calls.
+Why? Go for simplicity. Rust when I need to squeeze performance. TypeScript when the web calls.
 
 
 ## Find Me
 
 - 🌐 [johnfreeman.dev](https://johnfreeman.dev)
 - 📝 [eloquentarchitecture.com](https://eloquentarchitecture.com) - Where I write about breaking and fixing things
-- 🐦 [@johnfreemandev](https://twitter.com/johnfreemandev)
+- 🐦 [@johnfreemandev](https://x.com/johnfreemandev)
 
 ---
 

@@ -15,7 +15,7 @@ const profile = {
 
 ### 🔥 Active Projects
 
-**voyager** - Enterprise remote execution engine built for AI
+**voyager** - A remote script execution engine built specifically for safe agentic control
 `rust`
 
 **[hammerhand](https://github.com/johnnyfreeman/hammerhand)** - Cross platform native desktop application for managing processes. Processes can share ENV vars and config through Projects. Processes can be executed once manually, in a loop, or on a schedule.

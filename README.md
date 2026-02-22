@@ -15,11 +15,14 @@ const profile = {
 
 ### 🔥 Active Projects
 
+**voyager** - Enterprise remote execution engine built for AI
+`rust`
+
 **[hammerhand](https://github.com/johnnyfreeman/hammerhand)** - Cross platform native desktop application for managing processes. Processes can share ENV vars and config through Projects. Processes can be executed once manually, in a loop, or on a schedule.
-`rust` `process-manager`
+`rust` `process-manager` `gpui`
 
 **[viewscreen](https://github.com/johnnyfreeman/viewsceen)** - Viewscreen allows you to easily read streamed JSON while running Claude Code in non-interactive mode
-`rust` `bubbletea` `tui` `database`
+`go` `bubbletea` `tui`
 
 **[beacon](https://github.com/johnnyfreeman/beacon)** - Distributed API monitoring that scales horizontally without limits. Built on Temporal workflows for bulletproof reliability and exactly-once execution guarantees  
 `go` `temporal` `distributed-systems`
